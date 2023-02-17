@@ -1,0 +1,19 @@
+{
+    "name": "crisp/allecaddd_plugin",
+    "description": "build for me",
+    "type": "project",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "inc\\": "./inc"
+        }
+    },
+    "authors": [
+        {
+            "name": "crispin manda",
+            "email": "crispinmanda06@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
